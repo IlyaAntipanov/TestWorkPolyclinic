@@ -39,4 +39,7 @@
 
 ![image](https://github.com/IlyaAntipanov/TestWorkPolyclinic/assets/134602150/38d7a949-d342-4aac-8203-71063eb8776c)
 
-В файле dbTestWorkPolyclinic лежит БД. В папке TestWorkPolyclinic лежит сам сервер. Swagger подключен, так что при запуске проекта можно будет увидеть API работы с сервером
+В файле dbTestWorkPolyclinic лежит БД. В папке TestWorkPolyclinic лежит сам сервер. 
+Swagger подключен, так что при запуске проекта можно будет увидеть API работы с сервером:
+
+![image](https://github.com/IlyaAntipanov/TestWorkPolyclinic/assets/134602150/5bc63f33-4fbd-4e86-b2aa-026dc76a177c)
